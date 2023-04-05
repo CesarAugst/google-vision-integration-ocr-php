@@ -10,6 +10,8 @@
 - ```gcloud auth application-default login```
   - Criar arquivo de credenciais
 
+- Parecer do teste: necessita faturamento para utilizar a api 
+
 ## Resolução de conflitos
 - [erro cURL 60: certificado SSL prblm](https://stackoverflow.com/questions/35638497/curl-error-60-ssl-certificate-prblm-unable-to-get-local-issuer-certificate)
   - Esse erroa conteceu em meu ambiente windows e esses foram os passos para sua resolução
