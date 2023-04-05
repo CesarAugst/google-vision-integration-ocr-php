@@ -1,4 +1,7 @@
 # google-vision-php-integration
+Repositorio criado para testar a integração google vision (OCR) com php
+
+- teste usando cloud-vision: executar server/read_text.php
 
 ## Passos para utilizacao de cloud-vision
 - ```composer require google/cloud-vision```
