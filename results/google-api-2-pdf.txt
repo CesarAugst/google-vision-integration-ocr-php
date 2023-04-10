@@ -1,0 +1,451 @@
+tempo gasto: 4 segundos
+url: https://imprensa.pressmanager.com.br/tmp/2.pdf
+resultado: 
+2
+São Paulo, sábado a segunda-feira, 01 a 03 de abril de 2023
+O que leva uma
+empresa a ser
+processada pela ANPD?
+Lucélia Marcondes (*)
+Guimarães, Coordenador-
+-Geral de Fiscalização da
+ANPD, informou que a
+existência de um processo
+administrativo sancionador
+não significa condenação
+ou pré-condenação, de
+modo que a divulgação das
+demandas, pela Autoridade,
+trata-se de mero cumpri-
+mento à Lei de Acesso à
+Informação.
+Ainda que a norma preveja
+s processos foram a aplicação de multa de até
+50
+estabelecidos para R$ mil a Autoridade atua
+A Autoridade
+Nacional de Proteção
+de Dados (ANPD)
+divulgou, no último
+dia 23, a lista das oito
+primeiras instituições
+contra as quais foram
+instaurados processos
+administrativos
+sancionadores
+que afrontaram as regras de
+proteção de dados, dispos-
+tas na LGPD. A ausência de
+medidas de segurança (21 %
+do total), o não atendimento
+a requisições da Autoridade
+(21%) e a não comunicação
+de incidente de segurança
+ao titular dos dados (16%)
+formam a maior parte das
+infrações.
+Ausência do encarregado
+de dados pessoais, falta de
+comunicação de incidente
+de segurança à ANPD, au-
+sência de comprovação de
+hipótese legal e de registro
+de operações de tratamen-
+to, não envio de relatório
+de impacto de proteção de
+dados e não atendimento a
+determinações da Autori-
+dade completam a lista com
+percentuais menores.
+A previsão da adoção de
+medidas de segurança, cuja
+não observância se revelou
+um dos maiores motivos
+de instauração de processo
+sancionador até o momento,
+consta no artigo 46 e se-
+guintes da LGPD, dispondo
+que é dever dos agentes
+de tratamento, operador e
+controlador de dados, tomar
+providências de segurança,
+técnicas e administrativas
+aptas a proteger os dados
+pessoais de acessos não
+autorizados e de situações
+acidentais ou ilícitas de
+destruição, perda, comu-
+nicação ou qualquer forma
+de tratamento inadequado
+ou ilícito.
+Em evento realizado pela
+Fiesp, Miriam Wimmer, Di-
+retora da ANPD, destacou
+que não existe blindagem
+digital, portanto, incidentes
+podem ocorrer e que isso
+por si só não gera sanção,
+pois não é um descumpri-
+mento da lei. Assim, o que
+a Autoridade irá analisar se-
+rão as medidas preventivas
+de segurança cibernéticas
+adotadas antes e após o
+problema, sendo que as
+tratativas de mitigação
+resultarão em condutas pro-
+ativas e demonstração de
+boa-fé por parte do agente
+de tratamento.
+Ao seu turno, Fabrício
+responsiva, possibilitando
+às empresas se adequarem
+à legislação, uma vez que
+levar o regulado à confor-
+midade é um ato efetivo
+e imediato ao titular dos
+dados, atingindo, desse
+modo, o objetivo da norma
+em proteger os direitos
+fundamentais da pessoa
+natural, afirma Guimarães.
+Partindo de uma visão
+mais educativa, Guimarães
+explica que a aplicação de
+uma sanção administrativa
+é considerada uma derrota
+nesse processo e que as
+condutas só chegam à apre-
+ciação da autoridade após o
+titular já ter buscado seus
+direitos junto ao controla-
+dor e não obtido resposta.
+Nesse sentido, além das
+medidas necessárias à se-
+gurança dos dados, é im-
+portante que o controlador
+mantenha ativo, e rotineira-
+mente verificado, o endere-
+ço de correio eletrônico do
+encarregado de proteção de
+dados, que deve ser divulga-
+do publicamente, pois este
+é o meio de comunicação
+entre os titulares, a ANPD
+e o controlador.
+Atenta-se para o fato de
+que a manutenção desse
+canal é uma obrigação le-
+galmente imposta ao agente
+de tratamento, mesmo para
+aqueles dispensados da no-
+meação do DPO, nos termos
+do regulamento CD/ANPD
+nº2 de 2022. Ademais, even-
+tual requerimento da pessoa
+natural deve ser respondido
+dentro dos prazos estabele-
+cidos pela LGPD e daqueles
+dispostos no regulamento
+destinado aos agentes de
+pequeno porte.
+Portanto, o que leva a or-
+ganização a ser processada
+pela Autoridade Nacional
+de Proteção de Dados é
+sua total inércia na busca
+pela conformidade com as
+regras estampadas na LGPD
+e demais normas de priva-
+cidade e proteção de dados
+e, sobretudo, a indiferença
+no atendimento aos direitos
+do titular.
+(*) - É advogada no Rücker Curi
+Advocacia e Consultoria Jurídica.
+Empresas
+Negócios
+&
+SMS: a reinvenção do
+"rei" do mobile marketing
+Quando alguém ouve a palavra SMS, pode pensar nela como uma velha ferramenta de comunicação,
+substituída, ao longo dos anos, por aplicativos de mensagens instantâneas, como WhatsApp e Messenger
+Patrick Marquart (*)
+N
+o entanto, isso não é verdade.
+Apesar de ter sido concebido
+em 1984, tendo o primeiro SMS
+sido enviado em 1992, o Serviço de
+Mensagens Curtas está em ascensão.
+Vejamos alguns exemplos que com-
+provam isso:
+• Quando você está em uma reunião
+e alguém insiste em ligar para o
+seu celular, qual é a maneira mais
+rápida de avisar que você ligará
+de volta mais tarde? Enviando um
+SMS.
+• Se você não tem acesso à internet.
+e precisa enviar uma mensagem
+urgente para alguém, como faz? Por
+SMS.
+Então, se perguntarmos qual é
+um dos melhores canais para se
+comunicar com seus clientes, para
+minimizar as taxas de abandono de
+carrinho e oferecer promoções sob
+medida, qual é a primeira coisa que
+vem à mente? O SMS, claro!
+Ao longo dos anos, esse canal ganhou
+enorme força e, juntamente com o MMS
+(Multimedia Message System)-envio
+de fotos, áudio clips e vídeos - e o
+RCS (Rich Communications Service)
+- envio de carrosséis, mapas e tantos
+outros recursos ganhou seu lugar
+certo em qualquer estratégia de mar-
+keting digital.
+...new
+SMS
+Ao longo dos anos, esse canal ganhou
+seu lugar em qualquer estratégia de
+marketing digital.
+crossbrain66 CANVA
+A partir do fechamento do ba-
+lanço anual, o resultado obtido
+pela alteração constitucional
+foi um saldo negativo, tendo em
+vista que R$22,3 bilhões de reais
+em precatórios deixaram de ser
+pagos no ano de 2022. Em 2023,
+esse montante postergado se
+soma a emissões de dívidas judi-
+ciais de mais de R$51 bilhões de
+reais e faz com que a dívida total
+de precatórios da União passe de
+R$74 bilhões de reais, enquanto
+Segundo o estudo "Pagamentos
+móveis e comércio móvel no Brasil",
+realizado no segundo semestre de
+2022, as compras feitas pelo celular
+aumentaram 82% em comparação com
+os primeiros seis meses do ano. Inclu-
+sive, 81% dos respondentes afirmaram
+preferir utilizar o smartphone do que
+o computador para realizar aquisições,
+enquanto 91% dos entrevistados apre-
+sentam um alto grau de satisfação em
+relação ao comércio móvel.
+Com isso em mente, apostar nas fer-
+ramentas de comunicação existentes
+no celular é seguro para os varejistas
+que quiserem alavancar suas vendas.
+Na era da informação em massa a qual vivemos, o que
+chamamos de Big Data vem tornando-se cada vez mais
+importante em todos os setores, e com o varejo não é
+diferente.
+Através da coleta e análise de dados, os varejistas podem
+aproveitar essa riqueza de informações para melhorar suas
+operações de negócios, direcionar melhor seus esforços
+de publicidade, aprimorar a experiência do cliente e, por
+fim, impulsionar o crescimento da receita.
+1
+Em um mercado já extremamente disputado e popula-
+do por um consumidor cada vez mais digital, lojas físicas
+precisam encontrar maneiras de alavancar sua presença
+online, não só como um esforço de fortalecer sua marca
+e reputação, mas também para obter a maior quantidade
+I possível de pontos de informação sobre seus públicos e
+I sobre o comportamento de seus clientes durante toda a
+jornada de compra.
+Para entender a fundo o comportamento do público,
+direcionar melhor seus esforços de marketing e aprimorar
+a experiência de compra de seus clientes, lojas físicas
+i têm hoje à sua disposição empresas como Shopfully, que
+I através da tecnologia permitem que marcas e lojistas se
+comuniquem com seus clientes potenciais antes mesmo
+de que estes compareçam ao estabelecimento fisicamente.
+Seja através de aplicativos que reúnem catálogos digitais
+e ofertas de diversos estabelecimentos, seja por meio de
+I outros canais digitais.
+I
+I
+! Empresa de tecnologia europeia líder internacional
+em Drive to Store, e proprietária do aplicativo Tiendeo,
+a ShopFully, em operação no Brasil há mais de dez anos,
+disponibiliza uma ampla gama de valiosos pontos de
+i informação para as lojas físicas, graças ao uso de sua pla-
+I taforma tecnológica de marketing hiperlocal com a qual
+digitaliza ofertas e promoções e as distribui em diferentes
+canais digitais.
+São dados sobre como os consumidores procuram e
+planejam as suas compras, quais são os produtos mais
+I clicados, quanto tempo os clientes gastam lendo um
+I catálogo, em que dia da semana preferem ir a um tipo
+a previsão de pagamento é de
+apenas R$17,1 bilhões.
+Além do aumento na dívida
+pública, que pode onerar a po-
+pulação por meio de impostos, a
+situação faz com que o montante
+devido a milhares de brasileiros
+se torne cada vez mais difícil che-
+gar às mãos deles. O economista
+e CEO do Matri Bank, primeiro
+banco de precatórios do Brasil,
+Gustavo Messias, destaca que
+com a PEC, aqueles que vence-
+ram disputas judiciais contra a
+União e são donos de indeniza-
+ções a receber podem demorar
+cerca de três vezes mais para ter
+acesso a elas.
+A digitalização do varejo
+"Com a PEC, a previsão de
+espera para que um credor da
+União receba o montante a ele
+devido pode ultrapassar a marca
+de 36 meses, o que antes levava
+www.netjen.com.br
+1000000
+177
+Esses canais podem ser utilizados para
+enviar promoções, lembretes de com-
+pras deixadas no carrinho do usuário
+ou até mensagens personalizadas
+com o objetivo de chamar a atenção
+do cliente.
+Devido à sua simplicidade e alcance,
+as mensagens de texto estão tendo um
+retorno notável e podem ser facilmente
+incorporadas ao mix de mobile marke-
+ting de uma marca. Considerando que
+o SMS tem uma taxa de abertura de
+98% e taxa de resposta de 45%, contra
+20% e 45%, respectivamente, do e-mail,
+de acordo com o estudo do Gartner -
+The Future of Sales Follow-Ups: Text
+Messages. O SMS vai permanecer e só
+ficará mais forte.
+Como a mensagem de texto não
+precisa de conexão com a internet,
+possui altas taxas de entrega em re-
+lação a outros canais, como o e-mail.
+Além disso, o SMS não corre o risco
+de cair na caixa de spam. Sua utiliza-
+ção é econômica, pois não exige um
+alto investimento, e pode ser utilizada
+com diferentes plataformas de mobile
+marketing, assim as mensagens podem
+ser enviadas automaticamente e para
+um maior número de clientes.
+SMS não é apenas altamente rele-
+vante, mas é o "rei" das campanhas de
+mobile marketing.
+(*) - É diretor de Vendas Corporativas da
+Upstream, especialista global em tecnologia de
+mobile marketing.
+Lojas físicas precisam encontrar maneiras de alavancar sua
+presença online.
+I
+de loja ou a outro, a que horas, e inclusive se as pessoas
+que viram determinada oferta online depois foram até a
+loja. E muitos desses dados são disponibilizados também i
+por região.
+Precatórios: como anda o pagamento de títulos públicos?
+Em dezembro de 2021, o então
+Governo Federal, apoiado pela
+Câmara e pelo Senado, promulgou
+a PEC de número 23/2021, conhe-
+cida como PEC dos Precatórios.
+ferente a estes títulos, ainda em
+2021, o Governo pôde alterar o or-
+çamento estabelecido para 2022,
+dentro do qual acabou destinando
+menos da metade do que o teto de
+gastos previa para o pagamento de
+precatórios devidos pela União: o
+gasto previsto era de R$90 bilhões
+e o pagamento feito no ano pas-
+sado foi de R$ 44 bilhões.
+cerca de um ano. Essa situação
+gera uma bola de neve em que o
+Executivo deve postergar cada
+vez mais os pagamentos de preca-
+tórios e fazer crescer a demanda
+dos credores por alternativas
+para evitar as filas de espera que
+tendem a ser cada vez maiores",
+ressalta Gustavo.
+A proposta, que gerou as Emen-
+das Constitucionais 113 e 114,
+adia o pagamento de precatórios
+e altera o cálculo do teto de gastos
+do Governo, permitindo que o
+Executivo limite o pagamento de
+títulos de dívidas públicas já re-
+conhecidas pela Justiça e, dessa
+forma, flexibilize seu orçamento.
+Os chamados precatórios são
+títulos que correspondem a mais
+de 60 salários mínimos, adquiri-
+dos através do ganho de causas
+judiciais indenizatórias, movidas
+por pessoas físicas contra órgãos
+de diferentes esferas de poder
+governamental.
+Com a aprovação da PEC re-
+Utilizando-se dessas informações de forma hábil, o va- !
+rejista pode obter uma vantagem competitiva importante
+sobre seus concorrentes. Porém, em um mercado em
+constante e rápida evolução, direcionar seus esforços e i
+tomar decisões orientadas por dados não é apenas uma I
+possibilidade, mas sim uma necessidade.
+Por exemplo, um dos principais players de supermer-
+cado na Itália realizou uma análise de sua base de clien-
+tes, separando o público alvo em dois grupos: clientes
+regulares e clientes potenciais. Em seguida, criou duas
+campanhas Drive to Store geolocalizadas nas áreas onde !
+as lojas do varejista estavam, com mensagens diferentes !
+para cada grupo.
+Graças a esta atividade, a percentagem de novos visitan-
+tes, ou seja, consumidores que não entraram nas lojas do
+varejista nos últimos três meses, aumentou +19%. - Fonte I
+e mais informações: (https://www.shopfully.com.br/).
+Conforme destaca o economis-
+ta, com a PEC dos Precatórios, a
+expectativa é de que os títulos de
+dívidas públicas se acumulem e
+o 'calote' da União, em relação a
+seus credores, termine 2023 na
+casa dos R$56,9 bilhões. Neste
+cenário, os precatórios cujo paga-
+mento estava previsto para 2022,
+por exemplo, devem ser quitados
+apenas em 2027, de acordo com
+a expectativa atual do Governo.
+"Quando pensamos em pre-
+catórios, estamos falando de
+valores superiores a 60 salários
+mínimos, o que atualmente
+corresponde a mais de 78 mil
+reais. Essa quantia faz diferença
+no bolso do brasileiro de classe
+média, que é quem majoritaria-
+mente desempenha funções no
+serviço público e move causas
+indenizatórias que originam os
+títulos precatoriais.
+Com esse dinheiro em mãos,
+milhares de pessoas podem fi-
+car mais próximas de alcançar
+o sonho da casa própria ou até
+mesmo de sair da inadimplência
+que preocupa tantos setores so-
+ciais. Por isso, temos observado
+um crescimento da demanda
+por opções de antecipação do
+recebimento dos precatórios",
+complementa o Gustavo. - Fon-
+te e outras informações: (www.
+matribank.com.br).
